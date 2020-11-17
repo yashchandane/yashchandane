@@ -18,7 +18,7 @@ I'm Yash Chandane, 👨‍💻 I am a Tech Enthusiast, Python Backend developer.
 ⚡ Currently, I'm seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.
 
 Specific fields of interest include :
-**'Python' | 'SQL' | 'Machine Learning' | 'Computer Vision' | 'Git & GitHub' | 'Dialogflow' | 'PHP' | **
+**`Python` | `SQL` | `Machine Learning` | `Computer Vision` | `Git & GitHub` | `Dialogflow` | `PHP` **
 
 I am open to all Internships and Job Offers.
 
