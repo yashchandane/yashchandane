@@ -5,10 +5,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:yashchandane@gmail.com)](mailto:yashchandane@gmail.com)
 ---
 ## Hi there 👋         
-I'm Yash Chandane, Student at Rajasthan Technical University. 👨‍💻 I am a Tech Enthusiast, Python Backend developer. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
+I'm Yash Chandane, 👨‍💻 I am a Tech Enthusiast, Python Backend developer. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏 My main interest lies in Python development. I always try to find new things and explore around.
 
 ## 🧐 About
 
+- :smiley: I’m currently contributing to **Dev Incept** 
 - 😄 Actively contributing to various organisations and Open-Source Projects.
 - 🔭 I am currently Freelancing and ready to grab awesome opportunity.
 - 👯 And Many more...
