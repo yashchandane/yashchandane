@@ -9,7 +9,7 @@ I'm Yash Chandane, 👨‍💻 I am a Tech Enthusiast, Python Backend developer.
 
 ## 🧐 About
 
-- :smiley: I’m currently contributing to **Dev Incept** 
+- :smiley: I’m currently working at **Capgemini India** 
 - 😄 Actively contributing to various organisations and Open-Source Projects.
 - 🔭 I am currently Freelancing and ready to grab awesome opportunity.
 - 👯 And Many more...
